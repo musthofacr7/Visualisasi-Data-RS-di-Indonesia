@@ -1,4 +1,4 @@
-id;nama;propinsi;kab;alamat;jenis;kelas;status_blu;kepemilikan;total_tempat_tidur;total_layanan;total_tenaga_kerja
+id;nama;nama_provinsi;kab;alamat;jenis;kelas;status_blu;kepemilikan;total_tempat_tidur;total_layanan;total_tenaga_kerja
 1110053;RS Arun Lhokseumawe;Aceh;Kota Lhokseumawe;Jl. Plaju Komplek Perumahan PT Arun Batuphat Timur, Kec. Muara Satu;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;218;36;328
 1106014;RS Umum Fandika;Aceh;Aceh Tengah;Jl. Terminal Simpang Wariji Blangkolak 1 Kec. Bebesen;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;45;15;45
 1171110;RS Umum Daerah Meuraxa;Aceh;Kota Banda Aceh;Jl. Soekarno Hatta Km. 2 Desa Mibo Kecamatan Banda Raya;Rumah Sakit Umum;B;BLUD;Pemkot;310;77;487
